@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/ToDoApp/bin/Debug/net6.0/ToDoApp
+/Users/ugurcanyagmur/Projects/ToDoApp/bin/Debug/net6.0/ToDoApp.deps.json
+/Users/ugurcanyagmur/Projects/ToDoApp/bin/Debug/net6.0/ToDoApp.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/ToDoApp/bin/Debug/net6.0/ToDoApp.dll
+/Users/ugurcanyagmur/Projects/ToDoApp/bin/Debug/net6.0/ToDoApp.pdb
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.dll
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/refint/ToDoApp.dll
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.pdb
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ToDoApp.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/ToDoApp/obj/Debug/net6.0/ref/ToDoApp.dll
